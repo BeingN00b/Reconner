@@ -1,0 +1,7 @@
+# requirements.txt for djinfosec recon script
+
+requests
+argparse
+tldextract
+colorama
+shodan
